@@ -12,8 +12,5 @@ if($login == NULL or $senha == NULL){
 	header('location:login.html');
 
 
-}else{
-
 }
-
 ?>

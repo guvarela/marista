@@ -1,3 +1,8 @@
+<?php
+
+include ("sessao.php");
+
+?>
 <!DOCTYPE html>
 <html>
 <head>
