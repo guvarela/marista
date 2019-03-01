@@ -1,0 +1,21 @@
+li
+{
+
+	display: inline;
+	margin-right: 5px;
+	background-color: gray;
+	padding: 5px;
+	font-size: 25px;
+}
+
+li a 
+{
+	text-decoration: none;
+	color: white;
+}
+
+li.cabecalho:hover
+{
+	background: #141414;
+
+}
